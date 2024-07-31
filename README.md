@@ -47,9 +47,6 @@ The script displays the folder structure in the following format:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]
-
-## Author
-Sudharshan Balaji
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page] (https://github.com/bsudharshan2001/Folder-Structure-Visualizer/issues)
 
 Enjoy visualizing your folder structures!
