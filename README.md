@@ -24,7 +24,7 @@ This Python script provides a simple graphical tool to visualize the structure o
 1. Run the script using Python:
 
    ```
-   python folder_structure_visualizer.py
+   python get_folder_structure.py
    ```
 
 2. A file dialog will open, allowing you to select the folder you want to visualize.
