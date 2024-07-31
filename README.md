@@ -50,8 +50,6 @@ The script displays the folder structure in the following format:
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]
 
 ## Author
-
-Your Name
 Sudharshan Balaji
 
 Enjoy visualizing your folder structures!
